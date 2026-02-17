@@ -3,7 +3,7 @@
 This repository contains laboratory assignments for the course GE338 Geographic Data Science.
 
 ## Contents
-- Lab1: Service Area Analysis using GeoPandas
+- Lab1: Pan sharpening
 - Lab2: ...
 - Lab3: ...
 
