@@ -1,6 +1,15 @@
-# Pan_sharpening_Lab
-This Project is part of GE338.
+# GE338 Geographic Data Science
 
-Description:
+This repository contains laboratory assignments for the course GE338 Geographic Data Science.
 
-This notebook demonstrates pen sharpening techniques using staellite imagery.
+## Contents
+- Lab1: Service Area Analysis using GeoPandas
+- Lab2: ...
+- Lab3: ...
+
+## Tools Used
+- Python
+- GeoPandas
+- Matplotlib
+- Folium
+- Google Colab
